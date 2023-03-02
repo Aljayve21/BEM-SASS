@@ -1,0 +1,48 @@
+body {
+    display: flex;
+}
+
+.card-light {
+    background-color: #eee;
+    margin: 2em;
+    max-width: 300px;
+    padding: 5em;
+    box-shadow: 0 20px 30px -20px rgba(0, 0, 0, 0.4);
+}
+
+img {
+    width: 100%;
+}
+
+.card-dark {
+    background-color: #332f2f;
+margin: 2em;
+max-width: 300px;
+padding: 5em;
+color: white;
+box-shadow: 0 20px 30px -20px rgba(0, 0, 0, 0.4);
+}
+
+/* GLOBAL OR SHARED STYLES */
+
+.card {
+    margin: 2em;
+    max-width: 300px;
+    padding: 4em;
+    box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.4);
+}
+.card--light {
+    background-color: #efef;
+}
+
+.card--dark {
+    background-color: #332f2f;
+}
+
+/* SPACE COMBINATOR */
+
+/* .card  p{
+    opacity: .8;
+} */
+
+/* SPECIFICITY WARS */

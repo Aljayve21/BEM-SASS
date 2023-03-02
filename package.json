@@ -1,0 +1,21 @@
+{
+  "name": "aljayve",
+  "version": "1.0.0",
+  "description": "BEM Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bem-exercise"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Aljayve Capara",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
